@@ -1,0 +1,16 @@
+.footer-bottom{
+    background-color: #000000;
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+}
+.footer-section{
+    background-color: #25272e !important;
+    flex-shrink: 0 !important;
+}
+body{
+    color: beige;
+}
